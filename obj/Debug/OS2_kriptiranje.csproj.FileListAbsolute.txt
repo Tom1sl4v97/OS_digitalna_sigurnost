@@ -1,0 +1,33 @@
+C:\Faks\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe.config
+C:\Faks\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe
+C:\Faks\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.pdb
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.AssemblyReference.cache
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.SuggestedBindingRedirects.cache
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.kriptiranje_form.resources
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.Properties.Resources.resources
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.GenerateResource.cache
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.CoreCompileInputs.cache
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.exe
+C:\Faks\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.pdb
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe.config
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.pdb
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.AssemblyReference.cache
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.SuggestedBindingRedirects.cache
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.kriptiranje_form.resources
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.Properties.Resources.resources
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.GenerateResource.cache
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.CoreCompileInputs.cache
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.exe
+C:\Faks\DIPLOMSKI STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.pdb
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe.config
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.exe
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\bin\Debug\OS2_kriptiranje.pdb
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.AssemblyReference.cache
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.SuggestedBindingRedirects.cache
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.kriptiranje_form.resources
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.Properties.Resources.resources
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.GenerateResource.cache
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.csproj.CoreCompileInputs.cache
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.exe
+C:\Faks\DIPLOMSKI_STUDIJ\7 SEMESTAR\OS2\Projekt\OS2_kriptiranje\obj\Debug\OS2_kriptiranje.pdb

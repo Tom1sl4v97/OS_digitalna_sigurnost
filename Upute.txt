@@ -1,0 +1,5 @@
+Projekt je izrađen u Visual Studio 2022 u c#.
+Sve tekstualne datoteke se nalaze u mapi datoteke, a koristio sam direktna putanja.
+Kod provjere rješenja potrebno je najprije pohraniti uneseni tekst, zatim kreirati ključeve, pa potom kriptirati i dekriptirati poruke.
+Kod kreiranja digitalnog potpisa najprije se mora kreirati sažetak, zatim potpisati i na kraju se može provjeriti digitalni potpis.
+Kod provjere digitalnog potpisa se može direktno izmjeniti sažetak poruke, a potom se može provjeriti potpis.
